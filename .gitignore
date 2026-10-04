@@ -1,0 +1,22 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Local configuration and generated files
+.env
+.env.*
+!.env.example
+*.log
+*.tmp
+
+# Data: publish only documented, safe samples
+data/raw/
+data/private/
+
+# OS files
+Thumbs.db
+.DS_Store

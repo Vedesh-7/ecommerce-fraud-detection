@@ -1,0 +1,9 @@
+Transaction Amount,Payment Method,Product Category,Quantity,Customer Age,Device Used,Account Age Days,Transaction Hour,Address Match,Is Fraudulent
+52.72,debit card,electronics,5,30,mobile,213,14,yes,Fraudulent
+599.39,bank transfer,clothing,5,49,desktop,163,4,yes,Fraudulent
+18.45,credit card,electronics,4,39,tablet,244,10,yes,Not Fraudulent
+114.99,PayPal,electronics,4,27,desktop,27,13,yes,Not Fraudulent
+82.41,PayPal,health & beauty,1,42,mobile,231,8,No,Fraudulent
+235.44,credit card,toys & games,1,46,desktop,6,0,yes,Fraudulent
+205,debit card,health & beauty,5,39,tablet,145,20,yes,Not Fraudulent
+281.77,credit card,toys & games,4,51,mobile,304,1,yes,Not Fraudulent
